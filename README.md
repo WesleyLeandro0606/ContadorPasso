@@ -1,4 +1,4 @@
-# 📱 Contador de Passos – APP SPORT
+# 📱 Contador de Passos 
 
 Aplicativo Android desenvolvido em Java no Android Studio.
 
@@ -90,4 +90,4 @@ https://developer.android.com/studio
 ## 1. Clonar o projeto do GitHub
 
 ```bash
-git clone https://github.com/SEU-USUARIO/contador-passos-app.git
+git clone https://github.com/WesleyLeandro0606/ContadorPasso.git
